@@ -1,0 +1,15 @@
+.home-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.all-img {
+  height: 300px;
+  width: auto;
+}
+home-head {
+  font-size: 50px;
+  color: #6d396b;
+  margin-bottom: 20px;
+}

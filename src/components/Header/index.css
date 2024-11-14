@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.logo-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.my-image {
+  height: 30px;
+  width: 30px;
+  margin-right: 8px;
+  margin-top: 23px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.header-container {
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-order {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.list-item {
+  margin: 10px;
+}
